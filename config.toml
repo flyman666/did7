@@ -1,6 +1,6 @@
-baseURL = 'https://ovirgo.com/'
+baseURL = 'https://did7.com/'
 languageCode = 'zh-cn'
-title = 'Virgo'
+title = 'DID7'
 
 # 启用主题
 theme = 'virgo'
@@ -11,8 +11,8 @@ paginate = 12
 enableGitInfo = true
 
 [params]
-    author = 'Jack'
-    slogan = 'Life is just a joker.'
+    author = 'ZHC'
+    slogan = 'Love myself,Love ZEC.'
 
     # 页面语言，默认中文
     en = false
@@ -105,18 +105,18 @@ enableGitInfo = true
         words = "“照顾好自己的身体和情绪，<br>这场人生，<br>你就赢了一大半，<br>其余的其余，<br>人生自有安排。”"
 
     [params.contact]
-        icp = '豫ICP备2022002918号-1'             # 备案号，如果你不想显示，设置为 '' 空即可
-        icplink = '//beian.miit.gov.cn'           # 备案链接
-        weibo = '6867589681'                     # e.g. https://weibo.com/u/6867589681
+        icp = 'By ZHC'             # 备案号，如果你不想显示，设置为 '豫ICP备2022002918号-1' 空即可
+        icplink = ''           # 备案链接//beian.miit.gov.cn
+        weibo = '1670641292'                     # e.g. https://weibo.com/u/1670641292
         wechat = 'imgs/bg/wechat-public.jpg'           # 微信二维码地址
-        # zhihu = 'loveminimal'                   # e.g. https://www.zhihu.com/people/loveminimal
+        # zhihu = 'did7'                   # e.g. https://www.zhihu.com/people/did7
         # jianshu = 'eebcc2974936'                # e.g. https://www.jianshu.com/u/eebcc2974936
-        email = 'loveminimal@outlook.com'
-        github = 'loveminimal'                  # e.g. https://github.com/loveminimal
-        bilibili = '11608450'                   # e.g. https://space.bilibili.com/11608450
-        # twitter = 'loveminimal163'                 # e.g. https://twitter.com/loveminimal163
-        # facebook = 'loveminimal'              # e.g. https://facebook.com/loveminimal
-        # instagram = 'loveminimal163'          # e.g. https://www.instagram.com/loveminimal163
+        email = 'flyman666@gmail.com'
+        github = 'flyman666'                  # e.g. https://github.com/loveminimal
+        bilibili = '406912365'                   # e.g. https://space.bilibili.com/11608450
+        # twitter = 'did7'                 # e.g. https://twitter.com/loveminimal163
+        # facebook = 'flyman666'              # e.g. https://facebook.com/loveminimal
+        # instagram = 'did7'          # e.g. https://www.instagram.com/loveminimal163
         # youtube = 'UCkWIBwe3rZTDAmBs0GJngkA' # e.g. https://www.youtube.com/channel/UCkWIBwe3rZTDAmBs0GJngkA
         # telegram = 'https://web.telegram.org/z/'
         color = '#696969'                        # 图标颜色，默认为浅灰色
@@ -124,7 +124,7 @@ enableGitInfo = true
 
     [params.utterances]
         active = true                             # 是否启用评论插件
-        repo = "loveminimal/comment"               # 输入你的仓库名称
+        repo = "flyman666/did7"               # 输入你的仓库名称
         issueTerm = "pathname"
         theme = "github-light"
         crossorigin = "anonymous"
