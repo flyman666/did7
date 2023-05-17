@@ -12,6 +12,7 @@ weight: 0
 非人
 非人
 非人
-非人![图 1](imgs/388a9adaf06dd4c50fcfc75584542f1c9a1e189d23522767c279e273dc96b7f0.png =400x)  
-
 非人
+不是人
+非人
+<img alt="图 3" src="imgs/388a9adaf06dd4c50fcfc75584542f1c9a1e189d23522767c279e273dc96b7f0.png" width="400" />  
