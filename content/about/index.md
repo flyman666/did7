@@ -9,15 +9,17 @@ weight: 0
 ---
 
 ```
-法于阴阳，合于术数。食饮有节，起居有常。
-恬淡虚无，真气从之，精神内守，病安从来？
+人的一生，会长大三次。
+第一次，是发现自己不是世界中心的时候；
+第二次，是发现即使再怎么努力，终究还是有些事令人无能为力的时候；
+第三次，是明知道有些事可能是无能为力，还是会尽力争取的时候。
 ```
 
-## 🧪 玩具
+## 🧪 ME
 
 <figure style="text-align: center;">
-	<figcaption style="color: #d69; font-size: 14px;">安静的‘喵’</figcaption>
-	<img style="border-radius: 10px; box-shadow: 3px 3px 5px #ccc; margin: 8px auto;" alt="picture 2" src="imgs/a635d0128073c9309fd78704c915df5bf532b4444b7db40d5e4482f66ac502a7.png" width="500" />  
+	<figcaption style="color: #d69; font-size: 14px;">真诚如‘我’</figcaption>
+	<img style="border-radius: 10px; box-shadow: 3px 3px 5px #ccc; margin: 8px auto;" alt="picture 2" src="imgs/abme.jpg" width="500" />  
 </figure>
 
 ---
