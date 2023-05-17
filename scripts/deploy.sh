@@ -1,23 +1,22 @@
 #!/bin/sh
 # -------------------
-# Deploy posts to `loveminimal.github.io`
+# Deploy posts to `did7`
 # -------------------
 
-if [ -d "public" ]
-then
-    # rm -rf "public/CNAME" && cp -r "CNAME" "public/" # Fix potential error - Recovery `CNAME` before deploy.
-
-    cp -r "public" "../.temp"
-    cd "../.temp"
-    pwd
+if exist "public" (
+    rem rm /S /Q "public\CNAME" & copy /Y "CNAME" "public\"
+    
+    xcopy /E /I "public" "..\.temp"
+    cd "..\.temp"
+    echo %cd%
     git init
     git add .
     git commit -m "Posts update."
-    git remote add origin jack@ovirgo.com:/home/jack/.repo/site.git
-    # git remote add origin https://github.com/loveminimal/loveminimal.github.io.git
-    # git push -f origin master:main
+    git remote add origin https://github.com/flyman666/did7.git
+    rem git remote add origin https://github.com/flyman666/did7.git
+    rem git push -f origin master:main
     git push -f origin master
     cd ..
-    rm -rf ".temp"
-    cd "site"
-fi
+    rmdir /S /Q ".temp"
+    cd "did7"
+)
