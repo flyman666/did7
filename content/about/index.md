@@ -19,7 +19,7 @@ weight: 0
 
 <figure style="text-align: center;">
 	<figcaption style="color: #d69; font-size: 14px;">真诚如‘我’</figcaption>
-	<img style="border-radius: 10px; box-shadow: 3px 3px 5px #ccc; margin: 8px auto;" alt="picture 2" src="imgs/abme.jpg" width="500" />  
+	<img style="border-radius: 10px; box-shadow: 3px 3px 5px #ccc; margin: 8px auto;" alt="picture 2" src="imgs/abme2.jpg" width="500" />  
 </figure>
 
 ---
