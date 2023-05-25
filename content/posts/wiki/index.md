@@ -1,8 +1,8 @@
 ---
-title: "Wiki"
+title: "草稿"
 date: 2020-01-28T12:26:30+08:00
 draft: false
-categories: [_Misc]
+categories: [记事本]
 tags: []
 card: true
 weight: 0
@@ -11,7 +11,7 @@ weight: 0
 
 <!--more-->
 
-## WIKI
+## 想到什么写什么
 
 ### VSCode 折叠策略
 

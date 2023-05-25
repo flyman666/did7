@@ -9,21 +9,12 @@ tags: []
 <div class="nav">
 
 ## 🌞 *我的 MINE*
-- [GTD](https://www.dida365.com/webapp/#p/inbox/tasks)
-- [Ship](//ovirgo.com/ship)
-- [Emojing](//ovirgo.com/emojing)
-- [Wiki](//ovirgo.com/posts/wiki)
-- [Github](https://github.com/loveminimal)
-- [Gitee](https://gitee.com/loveminimal)
-- [网易云音乐](https://music.163.com/)
+- [以城以](https://echenge.com)
 - [Bilibili](https://bilibili.com/)
 - [知乎](https://www.zhihu.com/)
-- [微博](https://weibo.com/)
 - [简书](https://www.jianshu.com/)
-- [腾讯云](https://console.cloud.tencent.com/)
-- [微信公众平台](https://mp.weixin.qq.com/)
 - [华为云](https://cloud.huawei.com/home#/home)
-- [必应分析](https://www.bing.com/webmasters/home?siteUrl=https://ovirgo.com/) 
+- [必应分析](https://www.bing.com/webmasters/home?siteUrl=https://did7.com/) 
 - [虎扑](https://www.hupu.com/)
 - [软考](https://www.ruankao.org.cn/)
 - [抖音](https://www.douyin.com/)

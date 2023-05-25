@@ -70,7 +70,7 @@ enableGitInfo = true
             path = '/posts'
             en = 'Posts'
             zh = '文章'
-            icon = '📜'
+            icon = '📕'
         [params.menu.33]
             active = true
             path = '/archive'
@@ -81,8 +81,8 @@ enableGitInfo = true
             active = true
             path = '/posts/wiki'
             en = 'Wiki'
-            zh = '百科'
-            icon = '🚀'
+            zh = '草稿'
+            icon = '📝'
         [params.menu.55]
             active = true
             path = '/about'
