@@ -9,7 +9,8 @@ weight: 0
 ---
 
 ## 先看下下面这幅图
-- <img alt="图 1" src="imgs/e444a0971c7a52e4e386749928bac19184d30acd071911efdcf69dcf19b761d7.png" width="400" />  
+-  <img alt="图 2" src="imgs/138547b2bc6a0ae98edb9d14dcd192abcf084cbbcf57f6367c66b59983f4cad2.jpg" width="400" />  
+
 
 - 你能猜出这部影片的名字吗？
 - 是的，她就是《楚门的世界》
